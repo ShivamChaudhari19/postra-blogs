@@ -1,1 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding Kotlin Coroutines",
+    "thumbnailUrl": "https://example.com/images/kotlin-coroutines.png",
+    "contentUrl": "https://example.com/blogs/kotlin-coroutines"
+  },
+  {
+    "id": 2,
+    "title": "Clean Architecture in Android",
+    "thumbnailUrl": "https://example.com/images/clean-architecture.png",
+    "contentUrl": "https://example.com/blogs/clean-architecture-android"
+  },
+  {
+    "id": 3,
+    "title": "Ktor vs Retrofit: Choosing the Right HTTP Client",
+    "thumbnailUrl": "https://example.com/images/ktor-vs-retrofit.png",
+    "contentUrl": "https://example.com/blogs/ktor-vs-retrofit"
+  }
+]
 
